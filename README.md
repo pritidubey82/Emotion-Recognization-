@@ -1,6 +1,6 @@
-##Facial Emotion Detection using Deep Learning
+# Facial Emotion Detection using Deep Learning
 
-#Overview
+# Overview
 
 This project implements a real-time facial emotion detection system using Deep Learning (DL) and OpenCV. The model detects human facial expressions from a webcam feed and classifies them into seven categories: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.
 
